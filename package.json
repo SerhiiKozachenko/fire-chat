@@ -1,0 +1,26 @@
+{
+  "name": "fire-chat",
+  "version": "0.0.0",
+  "description": "Chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Grievoushead/fire-chat.git"
+  },
+  "author": "Sergey Kozachenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Grievoushead/fire-chat/issues"
+  },
+  "homepage": "https://github.com/Grievoushead/fire-chat",
+  "keywords": [
+    "chat",
+    "firebase"
+  ],
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
